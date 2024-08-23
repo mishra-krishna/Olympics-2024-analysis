@@ -69,7 +69,7 @@ The **Paris Olympics Analysis Dashboard** is an interactive web application that
 
 - **Medal Analysis**: Explore and visualize the medal distribution by country and event.
 - **Athlete Insights**: Analyze athlete data, including performance metrics and demographic information.
-- **Event Analysis**: Review and track the number of events and sports with interactive charts.
+- **Overall Analysis**: Review and track the number of events and sports with interactive charts.
 
 ## Contributing
 
