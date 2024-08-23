@@ -9,7 +9,6 @@ The **Paris Olympics Analysis Dashboard** is an interactive web application that
 
 - **Interactive Visualizations**: Visualize medal counts, athlete performance, and event statistics through dynamic charts and graphs.
 - **User-Friendly Interface**: Intuitive navigation with filters and tabs for customized data exploration.
-- **Real-Time Data Handling**: Updated to reflect real-time results and statistics during the Olympics.
 
 ## Technologies Used
 
